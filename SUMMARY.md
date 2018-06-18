@@ -7,4 +7,5 @@
 * [Diary](diary.md)
 * [Discography](graphy.md)
 * [Contact](untitled.md)
-
+----------------------------
+* [ML Study](https://github.com/SuperIntelligence/Pragmatism)
